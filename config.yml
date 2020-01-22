@@ -1,0 +1,6 @@
+aws:
+  s3_bucket: borgbackup-s3
+  accessKey: 11111
+
+env:
+  backup_path: /home/victorlee
